@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Azure TTS Voice Cloning</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-gray-100 p-4">
+    <div class="max-w-2xl mx-auto bg-white shadow-lg rounded-lg p-6">
+      <h1 class="text-2xl font-bold mb-4">Azure TTS Voice Cloning</h1>
+      <button
+        id="listVoicesBtn"
+        class="bg-blue-500 text-white px-4 py-2 rounded"
+      >
+        List Voices
+      </button>
+
+      <div class="mt-4">
+        <input
+          id="searchBar"
+          type="text"
+          placeholder="Search for voices..."
+          class="w-full p-2 border rounded mb-4"
+        />
+        <div id="voicesList" class="h-96 overflow-y-scroll"></div>
+      </div>
+
+      <h2 class="text-xl font-bold mt-8 mb-4">Generate SSML</h2>
+      <textarea
+        id="textInput"
+        class="w-full border rounded p-2 mb-4"
+        rows="4"
+        placeholder="Enter text to synthesize..."
+      ></textarea>
+      <div
+        id="voiceSelectContainer"
+        class="w-full border rounded p-2 mb-4"
+      ></div>
+      <button
+        id="generateSSMLBtn"
+        class="bg-green-500 text-white px-4 py-2 rounded"
+      >
+        Generate SSML
+      </button>
+      <pre id="ssmlOutput" class="mt-4 bg-gray-100 p-2 rounded"></pre>
+
+      <h2 class="text-xl font-bold mt-8 mb-4">Synthesize Audio</h2>
+      <button
+        id="synthesizeBtn"
+        class="bg-red-500 text-white px-4 py-2 rounded"
+      >
+        Synthesize Audio
+      </button>
+      <audio id="audioPlayer" controls class="mt-4 w-full"></audio>
+      <pre
+        id="speechMarksOutput"
+        class="mt-4 bg-gray-100 p-2 rounded hidden"
+      ></pre>
+
+      <div id="highlightedText" class="mt-4 bg-gray-100 p-2 rounded"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

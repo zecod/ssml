@@ -1,0 +1,38 @@
+[
+  {
+    "displayName": "Lara",
+    "localizedDisplayName": {},
+    "name": "vicki",
+    "gender": "female",
+    "labels": [],
+    "avatarImage": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/base/avatars/de-DE-vicki-neural.webp",
+    "previewAudio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/base/previews/de-DE-vicki-neural.mp3",
+    "deprecated": false,
+    "language": "de-DE",
+    "engine": "neural"
+  },
+  {
+    "Name": "Microsoft Server Speech Text to Speech Voice (af-ZA, WillemNeural)",
+    "DisplayName": "Willem",
+    "LocalName": "Willem",
+    "ShortName": "af-ZA-WillemNeural",
+    "Gender": "Male",
+    "Locale": "af-ZA",
+    "LocaleName": "Afrikaans (South Africa)",
+    "SampleRateHertz": "48000",
+    "VoiceType": "Neural",
+    "Status": "GA",
+    "WordsPerMinute": "155"
+  },
+
+  {
+    "DisplayName": "Willem",
+    "ShortName": "af-ZA-WillemNeural",
+    "Locale": "af-ZA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/za.png",
+    "engine": "vercelli"
+  }
+]

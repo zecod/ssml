@@ -1,0 +1,5132 @@
+[
+  {
+    "DisplayName": "Adri",
+    "ShortName": "af-ZA-AdriNeural",
+    "Locale": "af-ZA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "147",
+    "flag": "https://flagcdn.com/w40/za.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Willem",
+    "ShortName": "af-ZA-WillemNeural",
+    "Locale": "af-ZA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/za.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Mekdes",
+    "ShortName": "am-ET-MekdesNeural",
+    "Locale": "am-ET",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "117",
+    "flag": "https://flagcdn.com/w40/et.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ameha",
+    "ShortName": "am-ET-AmehaNeural",
+    "Locale": "am-ET",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "112",
+    "flag": "https://flagcdn.com/w40/et.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Fatima",
+    "ShortName": "ar-AE-FatimaNeural",
+    "Locale": "ar-AE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "110",
+    "flag": "https://flagcdn.com/w40/ae.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Hamdan",
+    "ShortName": "ar-AE-HamdanNeural",
+    "Locale": "ar-AE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "115",
+    "flag": "https://flagcdn.com/w40/ae.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Laila",
+    "ShortName": "ar-BH-LailaNeural",
+    "Locale": "ar-BH",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "108",
+    "flag": "https://flagcdn.com/w40/bh.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ali",
+    "ShortName": "ar-BH-AliNeural",
+    "Locale": "ar-BH",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "121",
+    "flag": "https://flagcdn.com/w40/bh.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Amina",
+    "ShortName": "ar-DZ-AminaNeural",
+    "Locale": "ar-DZ",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "110",
+    "flag": "https://flagcdn.com/w40/dz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ismael",
+    "ShortName": "ar-DZ-IsmaelNeural",
+    "Locale": "ar-DZ",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "115",
+    "flag": "https://flagcdn.com/w40/dz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Salma",
+    "ShortName": "ar-EG-SalmaNeural",
+    "Locale": "ar-EG",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "103",
+    "flag": "https://flagcdn.com/w40/eg.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Shakir",
+    "ShortName": "ar-EG-ShakirNeural",
+    "Locale": "ar-EG",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "115",
+    "flag": "https://flagcdn.com/w40/eg.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Rana",
+    "ShortName": "ar-IQ-RanaNeural",
+    "Locale": "ar-IQ",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "98",
+    "flag": "https://flagcdn.com/w40/iq.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Bassel",
+    "ShortName": "ar-IQ-BasselNeural",
+    "Locale": "ar-IQ",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "113",
+    "flag": "https://flagcdn.com/w40/iq.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sana",
+    "ShortName": "ar-JO-SanaNeural",
+    "Locale": "ar-JO",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "98",
+    "flag": "https://flagcdn.com/w40/jo.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Taim",
+    "ShortName": "ar-JO-TaimNeural",
+    "Locale": "ar-JO",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "113",
+    "flag": "https://flagcdn.com/w40/jo.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Noura",
+    "ShortName": "ar-KW-NouraNeural",
+    "Locale": "ar-KW",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "121",
+    "flag": "https://flagcdn.com/w40/kw.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Fahed",
+    "ShortName": "ar-KW-FahedNeural",
+    "Locale": "ar-KW",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "128",
+    "flag": "https://flagcdn.com/w40/kw.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Layla",
+    "ShortName": "ar-LB-LaylaNeural",
+    "Locale": "ar-LB",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "99",
+    "flag": "https://flagcdn.com/w40/lb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Rami",
+    "ShortName": "ar-LB-RamiNeural",
+    "Locale": "ar-LB",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "101",
+    "flag": "https://flagcdn.com/w40/lb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Iman",
+    "ShortName": "ar-LY-ImanNeural",
+    "Locale": "ar-LY",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "108",
+    "flag": "https://flagcdn.com/w40/ly.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Omar",
+    "ShortName": "ar-LY-OmarNeural",
+    "Locale": "ar-LY",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "111",
+    "flag": "https://flagcdn.com/w40/ly.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Mouna",
+    "ShortName": "ar-MA-MounaNeural",
+    "Locale": "ar-MA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "121",
+    "flag": "https://flagcdn.com/w40/ma.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jamal",
+    "ShortName": "ar-MA-JamalNeural",
+    "Locale": "ar-MA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "128",
+    "flag": "https://flagcdn.com/w40/ma.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Aysha",
+    "ShortName": "ar-OM-AyshaNeural",
+    "Locale": "ar-OM",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "118",
+    "flag": "https://flagcdn.com/w40/om.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Abdullah",
+    "ShortName": "ar-OM-AbdullahNeural",
+    "Locale": "ar-OM",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "123",
+    "flag": "https://flagcdn.com/w40/om.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Amal",
+    "ShortName": "ar-QA-AmalNeural",
+    "Locale": "ar-QA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "113",
+    "flag": "https://flagcdn.com/w40/qa.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Moaz",
+    "ShortName": "ar-QA-MoazNeural",
+    "Locale": "ar-QA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "114",
+    "flag": "https://flagcdn.com/w40/qa.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Zariyah",
+    "ShortName": "ar-SA-ZariyahNeural",
+    "Locale": "ar-SA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "105",
+    "flag": "https://flagcdn.com/w40/sa.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Hamed",
+    "ShortName": "ar-SA-HamedNeural",
+    "Locale": "ar-SA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "107",
+    "flag": "https://flagcdn.com/w40/sa.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Amany",
+    "ShortName": "ar-SY-AmanyNeural",
+    "Locale": "ar-SY",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "122",
+    "flag": "https://flagcdn.com/w40/sy.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Laith",
+    "ShortName": "ar-SY-LaithNeural",
+    "Locale": "ar-SY",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "133",
+    "flag": "https://flagcdn.com/w40/sy.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Reem",
+    "ShortName": "ar-TN-ReemNeural",
+    "Locale": "ar-TN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "112",
+    "flag": "https://flagcdn.com/w40/tn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Hedi",
+    "ShortName": "ar-TN-HediNeural",
+    "Locale": "ar-TN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "118",
+    "flag": "https://flagcdn.com/w40/tn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Maryam",
+    "ShortName": "ar-YE-MaryamNeural",
+    "Locale": "ar-YE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "108",
+    "flag": "https://flagcdn.com/w40/ye.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Saleh",
+    "ShortName": "ar-YE-SalehNeural",
+    "Locale": "ar-YE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "115",
+    "flag": "https://flagcdn.com/w40/ye.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Priyom",
+    "ShortName": "as-IN-PriyomNeural",
+    "Locale": "as-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yashica",
+    "ShortName": "as-IN-YashicaNeural",
+    "Locale": "as-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Banu",
+    "ShortName": "az-AZ-BanuNeural",
+    "Locale": "az-AZ",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "114",
+    "flag": "https://flagcdn.com/w40/az.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Babek",
+    "ShortName": "az-AZ-BabekNeural",
+    "Locale": "az-AZ",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "114",
+    "flag": "https://flagcdn.com/w40/az.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kalina",
+    "ShortName": "bg-BG-KalinaNeural",
+    "Locale": "bg-BG",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "125",
+    "flag": "https://flagcdn.com/w40/bg.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Borislav",
+    "ShortName": "bg-BG-BorislavNeural",
+    "Locale": "bg-BG",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "132",
+    "flag": "https://flagcdn.com/w40/bg.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nabanita",
+    "ShortName": "bn-BD-NabanitaNeural",
+    "Locale": "bn-BD",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "123",
+    "flag": "https://flagcdn.com/w40/bd.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Pradeep",
+    "ShortName": "bn-BD-PradeepNeural",
+    "Locale": "bn-BD",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "125",
+    "flag": "https://flagcdn.com/w40/bd.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Tanishaa",
+    "ShortName": "bn-IN-TanishaaNeural",
+    "Locale": "bn-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "123",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Bashkar",
+    "ShortName": "bn-IN-BashkarNeural",
+    "Locale": "bn-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "131",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Vesna",
+    "ShortName": "bs-BA-VesnaNeural",
+    "Locale": "bs-BA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/ba.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Goran",
+    "ShortName": "bs-BA-GoranNeural",
+    "Locale": "bs-BA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/ba.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Joana",
+    "ShortName": "ca-ES-JoanaNeural",
+    "Locale": "ca-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "147",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Enric",
+    "ShortName": "ca-ES-EnricNeural",
+    "Locale": "ca-ES",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Alba",
+    "ShortName": "ca-ES-AlbaNeural",
+    "Locale": "ca-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Vlasta",
+    "ShortName": "cs-CZ-VlastaNeural",
+    "Locale": "cs-CZ",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "118",
+    "flag": "https://flagcdn.com/w40/cz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Antonin",
+    "ShortName": "cs-CZ-AntoninNeural",
+    "Locale": "cs-CZ",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/cz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nia",
+    "ShortName": "cy-GB-NiaNeural",
+    "Locale": "cy-GB",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "136",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Aled",
+    "ShortName": "cy-GB-AledNeural",
+    "Locale": "cy-GB",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "148",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Christel",
+    "ShortName": "da-DK-ChristelNeural",
+    "Locale": "da-DK",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/dk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jeppe",
+    "ShortName": "da-DK-JeppeNeural",
+    "Locale": "da-DK",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "147",
+    "flag": "https://flagcdn.com/w40/dk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ingrid",
+    "ShortName": "de-AT-IngridNeural",
+    "Locale": "de-AT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "128",
+    "flag": "https://flagcdn.com/w40/at.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jonas",
+    "ShortName": "de-AT-JonasNeural",
+    "Locale": "de-AT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "130",
+    "flag": "https://flagcdn.com/w40/at.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Leni",
+    "ShortName": "de-CH-LeniNeural",
+    "Locale": "de-CH",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "121",
+    "flag": "https://flagcdn.com/w40/ch.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jan",
+    "ShortName": "de-CH-JanNeural",
+    "Locale": "de-CH",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/ch.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Katja",
+    "ShortName": "de-DE-KatjaNeural",
+    "Locale": "de-DE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "121",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Conrad",
+    "ShortName": "de-DE-ConradNeural",
+    "Locale": "de-DE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "128",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Amala",
+    "ShortName": "de-DE-AmalaNeural",
+    "Locale": "de-DE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "115",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Bernd",
+    "ShortName": "de-DE-BerndNeural",
+    "Locale": "de-DE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "123",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Christoph",
+    "ShortName": "de-DE-ChristophNeural",
+    "Locale": "de-DE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "128",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Elke",
+    "ShortName": "de-DE-ElkeNeural",
+    "Locale": "de-DE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "114",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Florian Multilingual",
+    "ShortName": "de-DE-FlorianMultilingualNeural",
+    "Locale": "de-DE",
+    "Gender": "Male",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "190",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gisela",
+    "ShortName": "de-DE-GiselaNeural",
+    "Locale": "de-DE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "110",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kasper",
+    "ShortName": "de-DE-KasperNeural",
+    "Locale": "de-DE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "129",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Killian",
+    "ShortName": "de-DE-KillianNeural",
+    "Locale": "de-DE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "126",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Klarissa",
+    "ShortName": "de-DE-KlarissaNeural",
+    "Locale": "de-DE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "116",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Klaus",
+    "ShortName": "de-DE-KlausNeural",
+    "Locale": "de-DE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "106",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Louisa",
+    "ShortName": "de-DE-LouisaNeural",
+    "Locale": "de-DE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "114",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Maja",
+    "ShortName": "de-DE-MajaNeural",
+    "Locale": "de-DE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "116",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ralf",
+    "ShortName": "de-DE-RalfNeural",
+    "Locale": "de-DE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "127",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Seraphina Multilingual",
+    "ShortName": "de-DE-SeraphinaMultilingualNeural",
+    "Locale": "de-DE",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "190",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Tanja",
+    "ShortName": "de-DE-TanjaNeural",
+    "Locale": "de-DE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "114",
+    "flag": "https://flagcdn.com/w40/de.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Athina",
+    "ShortName": "el-GR-AthinaNeural",
+    "Locale": "el-GR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "156",
+    "flag": "https://flagcdn.com/w40/gr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nestoras",
+    "ShortName": "el-GR-NestorasNeural",
+    "Locale": "el-GR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "158",
+    "flag": "https://flagcdn.com/w40/gr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Natasha",
+    "ShortName": "en-AU-NatashaNeural",
+    "Locale": "en-AU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "139",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "William",
+    "ShortName": "en-AU-WilliamNeural",
+    "Locale": "en-AU",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Annette",
+    "ShortName": "en-AU-AnnetteNeural",
+    "Locale": "en-AU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Carly",
+    "ShortName": "en-AU-CarlyNeural",
+    "Locale": "en-AU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "137",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Darren",
+    "ShortName": "en-AU-DarrenNeural",
+    "Locale": "en-AU",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "159",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Duncan",
+    "ShortName": "en-AU-DuncanNeural",
+    "Locale": "en-AU",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "153",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Elsie",
+    "ShortName": "en-AU-ElsieNeural",
+    "Locale": "en-AU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "148",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Freya",
+    "ShortName": "en-AU-FreyaNeural",
+    "Locale": "en-AU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "148",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Joanne",
+    "ShortName": "en-AU-JoanneNeural",
+    "Locale": "en-AU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "153",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ken",
+    "ShortName": "en-AU-KenNeural",
+    "Locale": "en-AU",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "159",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kim",
+    "ShortName": "en-AU-KimNeural",
+    "Locale": "en-AU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Neil",
+    "ShortName": "en-AU-NeilNeural",
+    "Locale": "en-AU",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "148",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Tim",
+    "ShortName": "en-AU-TimNeural",
+    "Locale": "en-AU",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "144",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Tina",
+    "ShortName": "en-AU-TinaNeural",
+    "Locale": "en-AU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "136",
+    "flag": "https://flagcdn.com/w40/au.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Clara",
+    "ShortName": "en-CA-ClaraNeural",
+    "Locale": "en-CA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "167",
+    "flag": "https://flagcdn.com/w40/ca.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Liam",
+    "ShortName": "en-CA-LiamNeural",
+    "Locale": "en-CA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "180",
+    "flag": "https://flagcdn.com/w40/ca.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sonia",
+    "ShortName": "en-GB-SoniaNeural",
+    "Locale": "en-GB",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ryan",
+    "ShortName": "en-GB-RyanNeural",
+    "Locale": "en-GB",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "161",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Libby",
+    "ShortName": "en-GB-LibbyNeural",
+    "Locale": "en-GB",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "138",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Abbi",
+    "ShortName": "en-GB-AbbiNeural",
+    "Locale": "en-GB",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "145",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ada Multilingual",
+    "ShortName": "en-GB-AdaMultilingualNeural",
+    "Locale": "en-GB",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Alfie",
+    "ShortName": "en-GB-AlfieNeural",
+    "Locale": "en-GB",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Bella",
+    "ShortName": "en-GB-BellaNeural",
+    "Locale": "en-GB",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "146",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Elliot",
+    "ShortName": "en-GB-ElliotNeural",
+    "Locale": "en-GB",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ethan",
+    "ShortName": "en-GB-EthanNeural",
+    "Locale": "en-GB",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Hollie",
+    "ShortName": "en-GB-HollieNeural",
+    "Locale": "en-GB",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "144",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Maisie",
+    "ShortName": "en-GB-MaisieNeural",
+    "Locale": "en-GB",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "141",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Noah",
+    "ShortName": "en-GB-NoahNeural",
+    "Locale": "en-GB",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Oliver",
+    "ShortName": "en-GB-OliverNeural",
+    "Locale": "en-GB",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Olivia",
+    "ShortName": "en-GB-OliviaNeural",
+    "Locale": "en-GB",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Thomas",
+    "ShortName": "en-GB-ThomasNeural",
+    "Locale": "en-GB",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ollie Multilingual",
+    "ShortName": "en-GB-OllieMultilingualNeural",
+    "Locale": "en-GB",
+    "Gender": "Male",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Mia",
+    "ShortName": "en-GB-MiaNeural",
+    "Locale": "en-GB",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/gb.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yan",
+    "ShortName": "en-HK-YanNeural",
+    "Locale": "en-HK",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "144",
+    "flag": "https://flagcdn.com/w40/hk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sam",
+    "ShortName": "en-HK-SamNeural",
+    "Locale": "en-HK",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "140",
+    "flag": "https://flagcdn.com/w40/hk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Emily",
+    "ShortName": "en-IE-EmilyNeural",
+    "Locale": "en-IE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/ie.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Connor",
+    "ShortName": "en-IE-ConnorNeural",
+    "Locale": "en-IE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "146",
+    "flag": "https://flagcdn.com/w40/ie.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Neerja",
+    "ShortName": "en-IN-NeerjaNeural",
+    "Locale": "en-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Prabhat",
+    "ShortName": "en-IN-PrabhatNeural",
+    "Locale": "en-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "129",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Aarav",
+    "ShortName": "en-IN-AaravNeural",
+    "Locale": "en-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Aashi",
+    "ShortName": "en-IN-AashiNeural",
+    "Locale": "en-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ananya",
+    "ShortName": "en-IN-AnanyaNeural",
+    "Locale": "en-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kavya",
+    "ShortName": "en-IN-KavyaNeural",
+    "Locale": "en-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kunal",
+    "ShortName": "en-IN-KunalNeural",
+    "Locale": "en-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Rehaan",
+    "ShortName": "en-IN-RehaanNeural",
+    "Locale": "en-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Asilia",
+    "ShortName": "en-KE-AsiliaNeural",
+    "Locale": "en-KE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/ke.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Chilemba",
+    "ShortName": "en-KE-ChilembaNeural",
+    "Locale": "en-KE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "156",
+    "flag": "https://flagcdn.com/w40/ke.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ezinne",
+    "ShortName": "en-NG-EzinneNeural",
+    "Locale": "en-NG",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "142",
+    "flag": "https://flagcdn.com/w40/ng.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Abeo",
+    "ShortName": "en-NG-AbeoNeural",
+    "Locale": "en-NG",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "153",
+    "flag": "https://flagcdn.com/w40/ng.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Molly",
+    "ShortName": "en-NZ-MollyNeural",
+    "Locale": "en-NZ",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "132",
+    "flag": "https://flagcdn.com/w40/nz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Mitchell",
+    "ShortName": "en-NZ-MitchellNeural",
+    "Locale": "en-NZ",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "149",
+    "flag": "https://flagcdn.com/w40/nz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Rosa",
+    "ShortName": "en-PH-RosaNeural",
+    "Locale": "en-PH",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "137",
+    "flag": "https://flagcdn.com/w40/ph.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "James",
+    "ShortName": "en-PH-JamesNeural",
+    "Locale": "en-PH",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "147",
+    "flag": "https://flagcdn.com/w40/ph.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Luna",
+    "ShortName": "en-SG-LunaNeural",
+    "Locale": "en-SG",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "133",
+    "flag": "https://flagcdn.com/w40/sg.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Wayne",
+    "ShortName": "en-SG-WayneNeural",
+    "Locale": "en-SG",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "133",
+    "flag": "https://flagcdn.com/w40/sg.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Imani",
+    "ShortName": "en-TZ-ImaniNeural",
+    "Locale": "en-TZ",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "142",
+    "flag": "https://flagcdn.com/w40/tz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Elimu",
+    "ShortName": "en-TZ-ElimuNeural",
+    "Locale": "en-TZ",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/tz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ava Multilingual",
+    "ShortName": "en-US-AvaMultilingualNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Andrew Multilingual",
+    "ShortName": "en-US-AndrewMultilingualNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Emma Multilingual",
+    "ShortName": "en-US-EmmaMultilingualNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Brian Multilingual",
+    "ShortName": "en-US-BrianMultilingualNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ava",
+    "ShortName": "en-US-AvaNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Andrew",
+    "ShortName": "en-US-AndrewNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Emma",
+    "ShortName": "en-US-EmmaNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Brian",
+    "ShortName": "en-US-BrianNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jenny",
+    "ShortName": "en-US-JennyNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Guy",
+    "ShortName": "en-US-GuyNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "215",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Aria",
+    "ShortName": "en-US-AriaNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Davis",
+    "ShortName": "en-US-DavisNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jane",
+    "ShortName": "en-US-JaneNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jason",
+    "ShortName": "en-US-JasonNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "156",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sara",
+    "ShortName": "en-US-SaraNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Tony",
+    "ShortName": "en-US-TonyNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "156",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nancy",
+    "ShortName": "en-US-NancyNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "149",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Amber",
+    "ShortName": "en-US-AmberNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ana",
+    "ShortName": "en-US-AnaNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ashley",
+    "ShortName": "en-US-AshleyNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "149",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Brandon",
+    "ShortName": "en-US-BrandonNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "156",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Christopher",
+    "ShortName": "en-US-ChristopherNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "149",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Cora",
+    "ShortName": "en-US-CoraNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "146",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Elizabeth",
+    "ShortName": "en-US-ElizabethNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Eric",
+    "ShortName": "en-US-EricNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "147",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jacob",
+    "ShortName": "en-US-JacobNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jenny Multilingual",
+    "ShortName": "en-US-JennyMultilingualNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "190",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Michelle",
+    "ShortName": "en-US-MichelleNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Monica",
+    "ShortName": "en-US-MonicaNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "145",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Roger",
+    "ShortName": "en-US-RogerNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ryan Multilingual",
+    "ShortName": "en-US-RyanMultilingualNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "190",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Steffan",
+    "ShortName": "en-US-SteffanNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "AIGenerate1",
+    "ShortName": "en-US-AIGenerate1Neural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "AIGenerate2",
+    "ShortName": "en-US-AIGenerate2Neural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "140",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Blue",
+    "ShortName": "en-US-BlueNeural",
+    "Locale": "en-US",
+    "Gender": "Neutral",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kai",
+    "ShortName": "en-US-KaiNeural",
+    "Locale": "en-US",
+    "Gender": "Male",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Luna",
+    "ShortName": "en-US-LunaNeural",
+    "Locale": "en-US",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Leah",
+    "ShortName": "en-ZA-LeahNeural",
+    "Locale": "en-ZA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/za.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Luke",
+    "ShortName": "en-ZA-LukeNeural",
+    "Locale": "en-ZA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "168",
+    "flag": "https://flagcdn.com/w40/za.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Elena",
+    "ShortName": "es-AR-ElenaNeural",
+    "Locale": "es-AR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/ar.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Tomas",
+    "ShortName": "es-AR-TomasNeural",
+    "Locale": "es-AR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "158",
+    "flag": "https://flagcdn.com/w40/ar.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sofia",
+    "ShortName": "es-BO-SofiaNeural",
+    "Locale": "es-BO",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "159",
+    "flag": "https://flagcdn.com/w40/bo.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Marcelo",
+    "ShortName": "es-BO-MarceloNeural",
+    "Locale": "es-BO",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/bo.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Catalina",
+    "ShortName": "es-CL-CatalinaNeural",
+    "Locale": "es-CL",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "295",
+    "flag": "https://flagcdn.com/w40/cl.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Lorenzo",
+    "ShortName": "es-CL-LorenzoNeural",
+    "Locale": "es-CL",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "318",
+    "flag": "https://flagcdn.com/w40/cl.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Salome",
+    "ShortName": "es-CO-SalomeNeural",
+    "Locale": "es-CO",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/co.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gonzalo",
+    "ShortName": "es-CO-GonzaloNeural",
+    "Locale": "es-CO",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "161",
+    "flag": "https://flagcdn.com/w40/co.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Maria",
+    "ShortName": "es-CR-MariaNeural",
+    "Locale": "es-CR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "138",
+    "flag": "https://flagcdn.com/w40/cr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Juan",
+    "ShortName": "es-CR-JuanNeural",
+    "Locale": "es-CR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "133",
+    "flag": "https://flagcdn.com/w40/cr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Belkys",
+    "ShortName": "es-CU-BelkysNeural",
+    "Locale": "es-CU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/cu.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Manuel",
+    "ShortName": "es-CU-ManuelNeural",
+    "Locale": "es-CU",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "137",
+    "flag": "https://flagcdn.com/w40/cu.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ramona",
+    "ShortName": "es-DO-RamonaNeural",
+    "Locale": "es-DO",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "130",
+    "flag": "https://flagcdn.com/w40/do.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Emilio",
+    "ShortName": "es-DO-EmilioNeural",
+    "Locale": "es-DO",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "133",
+    "flag": "https://flagcdn.com/w40/do.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Andrea",
+    "ShortName": "es-EC-AndreaNeural",
+    "Locale": "es-EC",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/ec.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Luis",
+    "ShortName": "es-EC-LuisNeural",
+    "Locale": "es-EC",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "138",
+    "flag": "https://flagcdn.com/w40/ec.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Elvira",
+    "ShortName": "es-ES-ElviraNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "148",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Alvaro",
+    "ShortName": "es-ES-AlvaroNeural",
+    "Locale": "es-ES",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "148",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Abril",
+    "ShortName": "es-ES-AbrilNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "146",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Arnau",
+    "ShortName": "es-ES-ArnauNeural",
+    "Locale": "es-ES",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "142",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Dario",
+    "ShortName": "es-ES-DarioNeural",
+    "Locale": "es-ES",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "164",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Elias",
+    "ShortName": "es-ES-EliasNeural",
+    "Locale": "es-ES",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Estrella",
+    "ShortName": "es-ES-EstrellaNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Irene",
+    "ShortName": "es-ES-IreneNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "134",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Laia",
+    "ShortName": "es-ES-LaiaNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "141",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Lia",
+    "ShortName": "es-ES-LiaNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nil",
+    "ShortName": "es-ES-NilNeural",
+    "Locale": "es-ES",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "149",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Saul",
+    "ShortName": "es-ES-SaulNeural",
+    "Locale": "es-ES",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "148",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Teo",
+    "ShortName": "es-ES-TeoNeural",
+    "Locale": "es-ES",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Triana",
+    "ShortName": "es-ES-TrianaNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Vera",
+    "ShortName": "es-ES-VeraNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ximena",
+    "ShortName": "es-ES-XimenaNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Arabella Multilingual",
+    "ShortName": "es-ES-ArabellaMultilingualNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Isidora Multilingual",
+    "ShortName": "es-ES-IsidoraMultilingualNeural",
+    "Locale": "es-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Teresa",
+    "ShortName": "es-GQ-TeresaNeural",
+    "Locale": "es-GQ",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/gq.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Javier",
+    "ShortName": "es-GQ-JavierNeural",
+    "Locale": "es-GQ",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "129",
+    "flag": "https://flagcdn.com/w40/gq.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Marta",
+    "ShortName": "es-GT-MartaNeural",
+    "Locale": "es-GT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "159",
+    "flag": "https://flagcdn.com/w40/gt.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Andres",
+    "ShortName": "es-GT-AndresNeural",
+    "Locale": "es-GT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/gt.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Karla",
+    "ShortName": "es-HN-KarlaNeural",
+    "Locale": "es-HN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "137",
+    "flag": "https://flagcdn.com/w40/hn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Carlos",
+    "ShortName": "es-HN-CarlosNeural",
+    "Locale": "es-HN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/hn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Dalia",
+    "ShortName": "es-MX-DaliaNeural",
+    "Locale": "es-MX",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "145",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jorge",
+    "ShortName": "es-MX-JorgeNeural",
+    "Locale": "es-MX",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Beatriz",
+    "ShortName": "es-MX-BeatrizNeural",
+    "Locale": "es-MX",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Candela",
+    "ShortName": "es-MX-CandelaNeural",
+    "Locale": "es-MX",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "134",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Carlota",
+    "ShortName": "es-MX-CarlotaNeural",
+    "Locale": "es-MX",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "145",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Cecilio",
+    "ShortName": "es-MX-CecilioNeural",
+    "Locale": "es-MX",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "149",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gerardo",
+    "ShortName": "es-MX-GerardoNeural",
+    "Locale": "es-MX",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "141",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Larissa",
+    "ShortName": "es-MX-LarissaNeural",
+    "Locale": "es-MX",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "151",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Liberto",
+    "ShortName": "es-MX-LibertoNeural",
+    "Locale": "es-MX",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "149",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Luciano",
+    "ShortName": "es-MX-LucianoNeural",
+    "Locale": "es-MX",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "139",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Marina",
+    "ShortName": "es-MX-MarinaNeural",
+    "Locale": "es-MX",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "136",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nuria",
+    "ShortName": "es-MX-NuriaNeural",
+    "Locale": "es-MX",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Pelayo",
+    "ShortName": "es-MX-PelayoNeural",
+    "Locale": "es-MX",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "148",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Renata",
+    "ShortName": "es-MX-RenataNeural",
+    "Locale": "es-MX",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "153",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yago",
+    "ShortName": "es-MX-YagoNeural",
+    "Locale": "es-MX",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "149",
+    "flag": "https://flagcdn.com/w40/mx.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yolanda",
+    "ShortName": "es-NI-YolandaNeural",
+    "Locale": "es-NI",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "130",
+    "flag": "https://flagcdn.com/w40/ni.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Federico",
+    "ShortName": "es-NI-FedericoNeural",
+    "Locale": "es-NI",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/ni.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Margarita",
+    "ShortName": "es-PA-MargaritaNeural",
+    "Locale": "es-PA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/pa.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Roberto",
+    "ShortName": "es-PA-RobertoNeural",
+    "Locale": "es-PA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "133",
+    "flag": "https://flagcdn.com/w40/pa.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Camila",
+    "ShortName": "es-PE-CamilaNeural",
+    "Locale": "es-PE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "159",
+    "flag": "https://flagcdn.com/w40/pe.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Alex",
+    "ShortName": "es-PE-AlexNeural",
+    "Locale": "es-PE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "133",
+    "flag": "https://flagcdn.com/w40/pe.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Karina",
+    "ShortName": "es-PR-KarinaNeural",
+    "Locale": "es-PR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "130",
+    "flag": "https://flagcdn.com/w40/pr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Victor",
+    "ShortName": "es-PR-VictorNeural",
+    "Locale": "es-PR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "138",
+    "flag": "https://flagcdn.com/w40/pr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Tania",
+    "ShortName": "es-PY-TaniaNeural",
+    "Locale": "es-PY",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "151",
+    "flag": "https://flagcdn.com/w40/py.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Mario",
+    "ShortName": "es-PY-MarioNeural",
+    "Locale": "es-PY",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "168",
+    "flag": "https://flagcdn.com/w40/py.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Lorena",
+    "ShortName": "es-SV-LorenaNeural",
+    "Locale": "es-SV",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "159",
+    "flag": "https://flagcdn.com/w40/sv.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Rodrigo",
+    "ShortName": "es-SV-RodrigoNeural",
+    "Locale": "es-SV",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/sv.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Paloma",
+    "ShortName": "es-US-PalomaNeural",
+    "Locale": "es-US",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Alonso",
+    "ShortName": "es-US-AlonsoNeural",
+    "Locale": "es-US",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "138",
+    "flag": "https://flagcdn.com/w40/us.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Valentina",
+    "ShortName": "es-UY-ValentinaNeural",
+    "Locale": "es-UY",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/uy.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Mateo",
+    "ShortName": "es-UY-MateoNeural",
+    "Locale": "es-UY",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "158",
+    "flag": "https://flagcdn.com/w40/uy.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Paola",
+    "ShortName": "es-VE-PaolaNeural",
+    "Locale": "es-VE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "130",
+    "flag": "https://flagcdn.com/w40/ve.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sebastian",
+    "ShortName": "es-VE-SebastianNeural",
+    "Locale": "es-VE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/ve.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Anu",
+    "ShortName": "et-EE-AnuNeural",
+    "Locale": "et-EE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "114",
+    "flag": "https://flagcdn.com/w40/ee.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kert",
+    "ShortName": "et-EE-KertNeural",
+    "Locale": "et-EE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "114",
+    "flag": "https://flagcdn.com/w40/ee.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ainhoa",
+    "ShortName": "eu-ES-AinhoaNeural",
+    "Locale": "eu-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "102",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ander",
+    "ShortName": "eu-ES-AnderNeural",
+    "Locale": "eu-ES",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "102",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Dilara",
+    "ShortName": "fa-IR-DilaraNeural",
+    "Locale": "fa-IR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "134",
+    "flag": "https://flagcdn.com/w40/ir.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Farid",
+    "ShortName": "fa-IR-FaridNeural",
+    "Locale": "fa-IR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "134",
+    "flag": "https://flagcdn.com/w40/ir.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Selma",
+    "ShortName": "fi-FI-SelmaNeural",
+    "Locale": "fi-FI",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "91",
+    "flag": "https://flagcdn.com/w40/fi.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Harri",
+    "ShortName": "fi-FI-HarriNeural",
+    "Locale": "fi-FI",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "97",
+    "flag": "https://flagcdn.com/w40/fi.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Noora",
+    "ShortName": "fi-FI-NooraNeural",
+    "Locale": "fi-FI",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "96",
+    "flag": "https://flagcdn.com/w40/fi.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Blessica",
+    "ShortName": "fil-PH-BlessicaNeural",
+    "Locale": "fil-PH",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "140",
+    "flag": "https://flagcdn.com/w40/ph.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Angelo",
+    "ShortName": "fil-PH-AngeloNeural",
+    "Locale": "fil-PH",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "144",
+    "flag": "https://flagcdn.com/w40/ph.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Charline",
+    "ShortName": "fr-BE-CharlineNeural",
+    "Locale": "fr-BE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/be.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gerard",
+    "ShortName": "fr-BE-GerardNeural",
+    "Locale": "fr-BE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "172",
+    "flag": "https://flagcdn.com/w40/be.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sylvie",
+    "ShortName": "fr-CA-SylvieNeural",
+    "Locale": "fr-CA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/ca.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jean",
+    "ShortName": "fr-CA-JeanNeural",
+    "Locale": "fr-CA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "133",
+    "flag": "https://flagcdn.com/w40/ca.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Antoine",
+    "ShortName": "fr-CA-AntoineNeural",
+    "Locale": "fr-CA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "159",
+    "flag": "https://flagcdn.com/w40/ca.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Thierry",
+    "ShortName": "fr-CA-ThierryNeural",
+    "Locale": "fr-CA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/ca.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ariane",
+    "ShortName": "fr-CH-ArianeNeural",
+    "Locale": "fr-CH",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "158",
+    "flag": "https://flagcdn.com/w40/ch.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Fabrice",
+    "ShortName": "fr-CH-FabriceNeural",
+    "Locale": "fr-CH",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "172",
+    "flag": "https://flagcdn.com/w40/ch.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Denise",
+    "ShortName": "fr-FR-DeniseNeural",
+    "Locale": "fr-FR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Henri",
+    "ShortName": "fr-FR-HenriNeural",
+    "Locale": "fr-FR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "165",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Alain",
+    "ShortName": "fr-FR-AlainNeural",
+    "Locale": "fr-FR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "165",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Brigitte",
+    "ShortName": "fr-FR-BrigitteNeural",
+    "Locale": "fr-FR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "153",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Celeste",
+    "ShortName": "fr-FR-CelesteNeural",
+    "Locale": "fr-FR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Claude",
+    "ShortName": "fr-FR-ClaudeNeural",
+    "Locale": "fr-FR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Coralie",
+    "ShortName": "fr-FR-CoralieNeural",
+    "Locale": "fr-FR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Eloise",
+    "ShortName": "fr-FR-EloiseNeural",
+    "Locale": "fr-FR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jacqueline",
+    "ShortName": "fr-FR-JacquelineNeural",
+    "Locale": "fr-FR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jerome",
+    "ShortName": "fr-FR-JeromeNeural",
+    "Locale": "fr-FR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "165",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Josephine",
+    "ShortName": "fr-FR-JosephineNeural",
+    "Locale": "fr-FR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Maurice",
+    "ShortName": "fr-FR-MauriceNeural",
+    "Locale": "fr-FR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "162",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Remy Multilingual",
+    "ShortName": "fr-FR-RemyMultilingualNeural",
+    "Locale": "fr-FR",
+    "Gender": "Male",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "190",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Vivienne Multilingual",
+    "ShortName": "fr-FR-VivienneMultilingualNeural",
+    "Locale": "fr-FR",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "190",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yves",
+    "ShortName": "fr-FR-YvesNeural",
+    "Locale": "fr-FR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "162",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yvette",
+    "ShortName": "fr-FR-YvetteNeural",
+    "Locale": "fr-FR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "156",
+    "flag": "https://flagcdn.com/w40/fr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Orla",
+    "ShortName": "ga-IE-OrlaNeural",
+    "Locale": "ga-IE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "139",
+    "flag": "https://flagcdn.com/w40/ie.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Colm",
+    "ShortName": "ga-IE-ColmNeural",
+    "Locale": "ga-IE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/ie.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sabela",
+    "ShortName": "gl-ES-SabelaNeural",
+    "Locale": "gl-ES",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "141",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Roi",
+    "ShortName": "gl-ES-RoiNeural",
+    "Locale": "gl-ES",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "148",
+    "flag": "https://flagcdn.com/w40/es.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Dhwani",
+    "ShortName": "gu-IN-DhwaniNeural",
+    "Locale": "gu-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "89",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Niranjan",
+    "ShortName": "gu-IN-NiranjanNeural",
+    "Locale": "gu-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "107",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Hila",
+    "ShortName": "he-IL-HilaNeural",
+    "Locale": "he-IL",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "113",
+    "flag": "https://flagcdn.com/w40/il.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Avri",
+    "ShortName": "he-IL-AvriNeural",
+    "Locale": "he-IL",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "106",
+    "flag": "https://flagcdn.com/w40/il.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Swara",
+    "ShortName": "hi-IN-SwaraNeural",
+    "Locale": "hi-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Madhur",
+    "ShortName": "hi-IN-MadhurNeural",
+    "Locale": "hi-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "114",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Aarav",
+    "ShortName": "hi-IN-AaravNeural",
+    "Locale": "hi-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ananya",
+    "ShortName": "hi-IN-AnanyaNeural",
+    "Locale": "hi-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kavya",
+    "ShortName": "hi-IN-KavyaNeural",
+    "Locale": "hi-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kunal",
+    "ShortName": "hi-IN-KunalNeural",
+    "Locale": "hi-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Rehaan",
+    "ShortName": "hi-IN-RehaanNeural",
+    "Locale": "hi-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gabrijela",
+    "ShortName": "hr-HR-GabrijelaNeural",
+    "Locale": "hr-HR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "124",
+    "flag": "https://flagcdn.com/w40/hr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Srecko",
+    "ShortName": "hr-HR-SreckoNeural",
+    "Locale": "hr-HR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "133",
+    "flag": "https://flagcdn.com/w40/hr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Noemi",
+    "ShortName": "hu-HU-NoemiNeural",
+    "Locale": "hu-HU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "110",
+    "flag": "https://flagcdn.com/w40/hu.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Tamas",
+    "ShortName": "hu-HU-TamasNeural",
+    "Locale": "hu-HU",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "124",
+    "flag": "https://flagcdn.com/w40/hu.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Anahit",
+    "ShortName": "hy-AM-AnahitNeural",
+    "Locale": "hy-AM",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "112",
+    "flag": "https://flagcdn.com/w40/am.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Hayk",
+    "ShortName": "hy-AM-HaykNeural",
+    "Locale": "hy-AM",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "112",
+    "flag": "https://flagcdn.com/w40/am.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gadis",
+    "ShortName": "id-ID-GadisNeural",
+    "Locale": "id-ID",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "111",
+    "flag": "https://flagcdn.com/w40/id.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ardi",
+    "ShortName": "id-ID-ArdiNeural",
+    "Locale": "id-ID",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "124",
+    "flag": "https://flagcdn.com/w40/id.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gudrun",
+    "ShortName": "is-IS-GudrunNeural",
+    "Locale": "is-IS",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/is.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gunnar",
+    "ShortName": "is-IS-GunnarNeural",
+    "Locale": "is-IS",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "144",
+    "flag": "https://flagcdn.com/w40/is.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Elsa",
+    "ShortName": "it-IT-ElsaNeural",
+    "Locale": "it-IT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "148",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Isabella",
+    "ShortName": "it-IT-IsabellaNeural",
+    "Locale": "it-IT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "134",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Diego",
+    "ShortName": "it-IT-DiegoNeural",
+    "Locale": "it-IT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Benigno",
+    "ShortName": "it-IT-BenignoNeural",
+    "Locale": "it-IT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "153",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Calimero",
+    "ShortName": "it-IT-CalimeroNeural",
+    "Locale": "it-IT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "142",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Cataldo",
+    "ShortName": "it-IT-CataldoNeural",
+    "Locale": "it-IT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "149",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Fabiola",
+    "ShortName": "it-IT-FabiolaNeural",
+    "Locale": "it-IT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Fiamma",
+    "ShortName": "it-IT-FiammaNeural",
+    "Locale": "it-IT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "141",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gianni",
+    "ShortName": "it-IT-GianniNeural",
+    "Locale": "it-IT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "139",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Giuseppe",
+    "ShortName": "it-IT-GiuseppeNeural",
+    "Locale": "it-IT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Imelda",
+    "ShortName": "it-IT-ImeldaNeural",
+    "Locale": "it-IT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "140",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Irma",
+    "ShortName": "it-IT-IrmaNeural",
+    "Locale": "it-IT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "142",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Lisandro",
+    "ShortName": "it-IT-LisandroNeural",
+    "Locale": "it-IT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "137",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Palmira",
+    "ShortName": "it-IT-PalmiraNeural",
+    "Locale": "it-IT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "139",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Pierina",
+    "ShortName": "it-IT-PierinaNeural",
+    "Locale": "it-IT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "134",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Rinaldo",
+    "ShortName": "it-IT-RinaldoNeural",
+    "Locale": "it-IT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "137",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Alessio Multilingual",
+    "ShortName": "it-IT-AlessioMultilingualNeural",
+    "Locale": "it-IT",
+    "Gender": "Male",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Isabella Multilingual",
+    "ShortName": "it-IT-IsabellaMultilingualNeural",
+    "Locale": "it-IT",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Marcello Multilingual",
+    "ShortName": "it-IT-MarcelloMultilingualNeural",
+    "Locale": "it-IT",
+    "Gender": "Male",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/it.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nanami",
+    "ShortName": "ja-JP-NanamiNeural",
+    "Locale": "ja-JP",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "305",
+    "flag": "https://flagcdn.com/w40/jp.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Keita",
+    "ShortName": "ja-JP-KeitaNeural",
+    "Locale": "ja-JP",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "337",
+    "flag": "https://flagcdn.com/w40/jp.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Aoi",
+    "ShortName": "ja-JP-AoiNeural",
+    "Locale": "ja-JP",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "270",
+    "flag": "https://flagcdn.com/w40/jp.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Daichi",
+    "ShortName": "ja-JP-DaichiNeural",
+    "Locale": "ja-JP",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "312",
+    "flag": "https://flagcdn.com/w40/jp.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Mayu",
+    "ShortName": "ja-JP-MayuNeural",
+    "Locale": "ja-JP",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "302",
+    "flag": "https://flagcdn.com/w40/jp.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Naoki",
+    "ShortName": "ja-JP-NaokiNeural",
+    "Locale": "ja-JP",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "312",
+    "flag": "https://flagcdn.com/w40/jp.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Shiori",
+    "ShortName": "ja-JP-ShioriNeural",
+    "Locale": "ja-JP",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "296",
+    "flag": "https://flagcdn.com/w40/jp.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Masaru Multilingual",
+    "ShortName": "ja-JP-MasaruMultilingualNeural",
+    "Locale": "ja-JP",
+    "Gender": "Male",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "190",
+    "flag": "https://flagcdn.com/w40/jp.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Siti",
+    "ShortName": "jv-ID-SitiNeural",
+    "Locale": "jv-ID",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "104",
+    "flag": "https://flagcdn.com/w40/id.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Dimas",
+    "ShortName": "jv-ID-DimasNeural",
+    "Locale": "jv-ID",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "115",
+    "flag": "https://flagcdn.com/w40/id.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Eka",
+    "ShortName": "ka-GE-EkaNeural",
+    "Locale": "ka-GE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "104",
+    "flag": "https://flagcdn.com/w40/ge.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Giorgi",
+    "ShortName": "ka-GE-GiorgiNeural",
+    "Locale": "ka-GE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "104",
+    "flag": "https://flagcdn.com/w40/ge.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Aigul",
+    "ShortName": "kk-KZ-AigulNeural",
+    "Locale": "kk-KZ",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "107",
+    "flag": "https://flagcdn.com/w40/kz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Daulet",
+    "ShortName": "kk-KZ-DauletNeural",
+    "Locale": "kk-KZ",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "111",
+    "flag": "https://flagcdn.com/w40/kz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sreymom",
+    "ShortName": "km-KH-SreymomNeural",
+    "Locale": "km-KH",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "25",
+    "flag": "https://flagcdn.com/w40/kh.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Piseth",
+    "ShortName": "km-KH-PisethNeural",
+    "Locale": "km-KH",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "25",
+    "flag": "https://flagcdn.com/w40/kh.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sapna",
+    "ShortName": "kn-IN-SapnaNeural",
+    "Locale": "kn-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "94",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gagan",
+    "ShortName": "kn-IN-GaganNeural",
+    "Locale": "kn-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "100",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sun-Hi",
+    "ShortName": "ko-KR-SunHiNeural",
+    "Locale": "ko-KR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "274",
+    "flag": "https://flagcdn.com/w40/kr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "InJoon",
+    "ShortName": "ko-KR-InJoonNeural",
+    "Locale": "ko-KR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "253",
+    "flag": "https://flagcdn.com/w40/kr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "BongJin",
+    "ShortName": "ko-KR-BongJinNeural",
+    "Locale": "ko-KR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "262",
+    "flag": "https://flagcdn.com/w40/kr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "GookMin",
+    "ShortName": "ko-KR-GookMinNeural",
+    "Locale": "ko-KR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "278",
+    "flag": "https://flagcdn.com/w40/kr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Hyunsu",
+    "ShortName": "ko-KR-HyunsuNeural",
+    "Locale": "ko-KR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/kr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "JiMin",
+    "ShortName": "ko-KR-JiMinNeural",
+    "Locale": "ko-KR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "291",
+    "flag": "https://flagcdn.com/w40/kr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "SeoHyeon",
+    "ShortName": "ko-KR-SeoHyeonNeural",
+    "Locale": "ko-KR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "258",
+    "flag": "https://flagcdn.com/w40/kr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "SoonBok",
+    "ShortName": "ko-KR-SoonBokNeural",
+    "Locale": "ko-KR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "271",
+    "flag": "https://flagcdn.com/w40/kr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "YuJin",
+    "ShortName": "ko-KR-YuJinNeural",
+    "Locale": "ko-KR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "288",
+    "flag": "https://flagcdn.com/w40/kr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Keomany",
+    "ShortName": "lo-LA-KeomanyNeural",
+    "Locale": "lo-LA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "33",
+    "flag": "https://flagcdn.com/w40/la.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Chanthavong",
+    "ShortName": "lo-LA-ChanthavongNeural",
+    "Locale": "lo-LA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "35",
+    "flag": "https://flagcdn.com/w40/la.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ona",
+    "ShortName": "lt-LT-OnaNeural",
+    "Locale": "lt-LT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "107",
+    "flag": "https://flagcdn.com/w40/lt.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Leonas",
+    "ShortName": "lt-LT-LeonasNeural",
+    "Locale": "lt-LT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "111",
+    "flag": "https://flagcdn.com/w40/lt.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Everita",
+    "ShortName": "lv-LV-EveritaNeural",
+    "Locale": "lv-LV",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "106",
+    "flag": "https://flagcdn.com/w40/lv.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nils",
+    "ShortName": "lv-LV-NilsNeural",
+    "Locale": "lv-LV",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "120",
+    "flag": "https://flagcdn.com/w40/lv.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Marija",
+    "ShortName": "mk-MK-MarijaNeural",
+    "Locale": "mk-MK",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "127",
+    "flag": "https://flagcdn.com/w40/mk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Aleksandar",
+    "ShortName": "mk-MK-AleksandarNeural",
+    "Locale": "mk-MK",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "127",
+    "flag": "https://flagcdn.com/w40/mk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sobhana",
+    "ShortName": "ml-IN-SobhanaNeural",
+    "Locale": "ml-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "87",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Midhun",
+    "ShortName": "ml-IN-MidhunNeural",
+    "Locale": "ml-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "93",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yesui",
+    "ShortName": "mn-MN-YesuiNeural",
+    "Locale": "mn-MN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "142",
+    "flag": "https://flagcdn.com/w40/mn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Bataa",
+    "ShortName": "mn-MN-BataaNeural",
+    "Locale": "mn-MN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "142",
+    "flag": "https://flagcdn.com/w40/mn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Aarohi",
+    "ShortName": "mr-IN-AarohiNeural",
+    "Locale": "mr-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "99",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Manohar",
+    "ShortName": "mr-IN-ManoharNeural",
+    "Locale": "mr-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "100",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yasmin",
+    "ShortName": "ms-MY-YasminNeural",
+    "Locale": "ms-MY",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "112",
+    "flag": "https://flagcdn.com/w40/my.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Osman",
+    "ShortName": "ms-MY-OsmanNeural",
+    "Locale": "ms-MY",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "118",
+    "flag": "https://flagcdn.com/w40/my.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Grace",
+    "ShortName": "mt-MT-GraceNeural",
+    "Locale": "mt-MT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "136",
+    "flag": "https://flagcdn.com/w40/mt.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Joseph",
+    "ShortName": "mt-MT-JosephNeural",
+    "Locale": "mt-MT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "130",
+    "flag": "https://flagcdn.com/w40/mt.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nilar",
+    "ShortName": "my-MM-NilarNeural",
+    "Locale": "my-MM",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "63",
+    "flag": "https://flagcdn.com/w40/mm.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Thiha",
+    "ShortName": "my-MM-ThihaNeural",
+    "Locale": "my-MM",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "71",
+    "flag": "https://flagcdn.com/w40/mm.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Pernille",
+    "ShortName": "nb-NO-PernilleNeural",
+    "Locale": "nb-NO",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "160",
+    "flag": "https://flagcdn.com/w40/no.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Finn",
+    "ShortName": "nb-NO-FinnNeural",
+    "Locale": "nb-NO",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "145",
+    "flag": "https://flagcdn.com/w40/no.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Iselin",
+    "ShortName": "nb-NO-IselinNeural",
+    "Locale": "nb-NO",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "154",
+    "flag": "https://flagcdn.com/w40/no.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Hemkala",
+    "ShortName": "ne-NP-HemkalaNeural",
+    "Locale": "ne-NP",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "119",
+    "flag": "https://flagcdn.com/w40/np.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sagar",
+    "ShortName": "ne-NP-SagarNeural",
+    "Locale": "ne-NP",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "119",
+    "flag": "https://flagcdn.com/w40/np.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Dena",
+    "ShortName": "nl-BE-DenaNeural",
+    "Locale": "nl-BE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "134",
+    "flag": "https://flagcdn.com/w40/be.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Arnaud",
+    "ShortName": "nl-BE-ArnaudNeural",
+    "Locale": "nl-BE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/be.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Fenna",
+    "ShortName": "nl-NL-FennaNeural",
+    "Locale": "nl-NL",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "140",
+    "flag": "https://flagcdn.com/w40/nl.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Maarten",
+    "ShortName": "nl-NL-MaartenNeural",
+    "Locale": "nl-NL",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "151",
+    "flag": "https://flagcdn.com/w40/nl.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Colette",
+    "ShortName": "nl-NL-ColetteNeural",
+    "Locale": "nl-NL",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "132",
+    "flag": "https://flagcdn.com/w40/nl.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Subhasini",
+    "ShortName": "or-IN-SubhasiniNeural",
+    "Locale": "or-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sukant",
+    "ShortName": "or-IN-SukantNeural",
+    "Locale": "or-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ojas",
+    "ShortName": "pa-IN-OjasNeural",
+    "Locale": "pa-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Vaani",
+    "ShortName": "pa-IN-VaaniNeural",
+    "Locale": "pa-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Agnieszka",
+    "ShortName": "pl-PL-AgnieszkaNeural",
+    "Locale": "pl-PL",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "112",
+    "flag": "https://flagcdn.com/w40/pl.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Marek",
+    "ShortName": "pl-PL-MarekNeural",
+    "Locale": "pl-PL",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "128",
+    "flag": "https://flagcdn.com/w40/pl.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Zofia",
+    "ShortName": "pl-PL-ZofiaNeural",
+    "Locale": "pl-PL",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "127",
+    "flag": "https://flagcdn.com/w40/pl.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Latifa",
+    "ShortName": "ps-AF-LatifaNeural",
+    "Locale": "ps-AF",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "165",
+    "flag": "https://flagcdn.com/w40/af.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gul Nawaz",
+    "ShortName": "ps-AF-GulNawazNeural",
+    "Locale": "ps-AF",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "170",
+    "flag": "https://flagcdn.com/w40/af.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Francisca",
+    "ShortName": "pt-BR-FranciscaNeural",
+    "Locale": "pt-BR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "134",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Antonio",
+    "ShortName": "pt-BR-AntonioNeural",
+    "Locale": "pt-BR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "138",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Brenda",
+    "ShortName": "pt-BR-BrendaNeural",
+    "Locale": "pt-BR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "144",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Donato",
+    "ShortName": "pt-BR-DonatoNeural",
+    "Locale": "pt-BR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "152",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Elza",
+    "ShortName": "pt-BR-ElzaNeural",
+    "Locale": "pt-BR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Fabio",
+    "ShortName": "pt-BR-FabioNeural",
+    "Locale": "pt-BR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "134",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Giovanna",
+    "ShortName": "pt-BR-GiovannaNeural",
+    "Locale": "pt-BR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "143",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Humberto",
+    "ShortName": "pt-BR-HumbertoNeural",
+    "Locale": "pt-BR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "146",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Julio",
+    "ShortName": "pt-BR-JulioNeural",
+    "Locale": "pt-BR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "136",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Leila",
+    "ShortName": "pt-BR-LeilaNeural",
+    "Locale": "pt-BR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "153",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Leticia",
+    "ShortName": "pt-BR-LeticiaNeural",
+    "Locale": "pt-BR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "128",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Manuela",
+    "ShortName": "pt-BR-ManuelaNeural",
+    "Locale": "pt-BR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nicolau",
+    "ShortName": "pt-BR-NicolauNeural",
+    "Locale": "pt-BR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "132",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Thalita Multilingual",
+    "ShortName": "pt-BR-ThalitaMultilingualNeural",
+    "Locale": "pt-BR",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Thalita",
+    "ShortName": "pt-BR-ThalitaNeural",
+    "Locale": "pt-BR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Valerio",
+    "ShortName": "pt-BR-ValerioNeural",
+    "Locale": "pt-BR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "131",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yara",
+    "ShortName": "pt-BR-YaraNeural",
+    "Locale": "pt-BR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "136",
+    "flag": "https://flagcdn.com/w40/br.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Raquel",
+    "ShortName": "pt-PT-RaquelNeural",
+    "Locale": "pt-PT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "144",
+    "flag": "https://flagcdn.com/w40/pt.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Duarte",
+    "ShortName": "pt-PT-DuarteNeural",
+    "Locale": "pt-PT",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "182",
+    "flag": "https://flagcdn.com/w40/pt.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Fernanda",
+    "ShortName": "pt-PT-FernandaNeural",
+    "Locale": "pt-PT",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "166",
+    "flag": "https://flagcdn.com/w40/pt.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Alina",
+    "ShortName": "ro-RO-AlinaNeural",
+    "Locale": "ro-RO",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "141",
+    "flag": "https://flagcdn.com/w40/ro.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Emil",
+    "ShortName": "ro-RO-EmilNeural",
+    "Locale": "ro-RO",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "144",
+    "flag": "https://flagcdn.com/w40/ro.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Svetlana",
+    "ShortName": "ru-RU-SvetlanaNeural",
+    "Locale": "ru-RU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "113",
+    "flag": "https://flagcdn.com/w40/ru.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Dmitry",
+    "ShortName": "ru-RU-DmitryNeural",
+    "Locale": "ru-RU",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "113",
+    "flag": "https://flagcdn.com/w40/ru.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Dariya",
+    "ShortName": "ru-RU-DariyaNeural",
+    "Locale": "ru-RU",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "113",
+    "flag": "https://flagcdn.com/w40/ru.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Thilini",
+    "ShortName": "si-LK-ThiliniNeural",
+    "Locale": "si-LK",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "142",
+    "flag": "https://flagcdn.com/w40/lk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sameera",
+    "ShortName": "si-LK-SameeraNeural",
+    "Locale": "si-LK",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "155",
+    "flag": "https://flagcdn.com/w40/lk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Viktoria",
+    "ShortName": "sk-SK-ViktoriaNeural",
+    "Locale": "sk-SK",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "118",
+    "flag": "https://flagcdn.com/w40/sk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Lukas",
+    "ShortName": "sk-SK-LukasNeural",
+    "Locale": "sk-SK",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "132",
+    "flag": "https://flagcdn.com/w40/sk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Petra",
+    "ShortName": "sl-SI-PetraNeural",
+    "Locale": "sl-SI",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "138",
+    "flag": "https://flagcdn.com/w40/si.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Rok",
+    "ShortName": "sl-SI-RokNeural",
+    "Locale": "sl-SI",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "126",
+    "flag": "https://flagcdn.com/w40/si.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ubax",
+    "ShortName": "so-SO-UbaxNeural",
+    "Locale": "so-SO",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "126",
+    "flag": "https://flagcdn.com/w40/so.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Muuse",
+    "ShortName": "so-SO-MuuseNeural",
+    "Locale": "so-SO",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "136",
+    "flag": "https://flagcdn.com/w40/so.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Anila",
+    "ShortName": "sq-AL-AnilaNeural",
+    "Locale": "sq-AL",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "141",
+    "flag": "https://flagcdn.com/w40/al.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ilir",
+    "ShortName": "sq-AL-IlirNeural",
+    "Locale": "sq-AL",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "141",
+    "flag": "https://flagcdn.com/w40/al.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nicholas",
+    "ShortName": "sr-Latn-RS-NicholasNeural",
+    "Locale": "sr-Latn-RS",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/latn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sophie",
+    "ShortName": "sr-Latn-RS-SophieNeural",
+    "Locale": "sr-Latn-RS",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/latn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sophie",
+    "ShortName": "sr-RS-SophieNeural",
+    "Locale": "sr-RS",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "132",
+    "flag": "https://flagcdn.com/w40/rs.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Nicholas",
+    "ShortName": "sr-RS-NicholasNeural",
+    "Locale": "sr-RS",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "128",
+    "flag": "https://flagcdn.com/w40/rs.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Tuti",
+    "ShortName": "su-ID-TutiNeural",
+    "Locale": "su-ID",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "111",
+    "flag": "https://flagcdn.com/w40/id.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Jajang",
+    "ShortName": "su-ID-JajangNeural",
+    "Locale": "su-ID",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "115",
+    "flag": "https://flagcdn.com/w40/id.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sofie",
+    "ShortName": "sv-SE-SofieNeural",
+    "Locale": "sv-SE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "138",
+    "flag": "https://flagcdn.com/w40/se.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Mattias",
+    "ShortName": "sv-SE-MattiasNeural",
+    "Locale": "sv-SE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "135",
+    "flag": "https://flagcdn.com/w40/se.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Hillevi",
+    "ShortName": "sv-SE-HilleviNeural",
+    "Locale": "sv-SE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "147",
+    "flag": "https://flagcdn.com/w40/se.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Zuri",
+    "ShortName": "sw-KE-ZuriNeural",
+    "Locale": "sw-KE",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "113",
+    "flag": "https://flagcdn.com/w40/ke.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Rafiki",
+    "ShortName": "sw-KE-RafikiNeural",
+    "Locale": "sw-KE",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "121",
+    "flag": "https://flagcdn.com/w40/ke.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Rehema",
+    "ShortName": "sw-TZ-RehemaNeural",
+    "Locale": "sw-TZ",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "108",
+    "flag": "https://flagcdn.com/w40/tz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Daudi",
+    "ShortName": "sw-TZ-DaudiNeural",
+    "Locale": "sw-TZ",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "114",
+    "flag": "https://flagcdn.com/w40/tz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Pallavi",
+    "ShortName": "ta-IN-PallaviNeural",
+    "Locale": "ta-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "79",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Valluvar",
+    "ShortName": "ta-IN-ValluvarNeural",
+    "Locale": "ta-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "98",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Saranya",
+    "ShortName": "ta-LK-SaranyaNeural",
+    "Locale": "ta-LK",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "75",
+    "flag": "https://flagcdn.com/w40/lk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kumar",
+    "ShortName": "ta-LK-KumarNeural",
+    "Locale": "ta-LK",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "93",
+    "flag": "https://flagcdn.com/w40/lk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Kani",
+    "ShortName": "ta-MY-KaniNeural",
+    "Locale": "ta-MY",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "83",
+    "flag": "https://flagcdn.com/w40/my.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Surya",
+    "ShortName": "ta-MY-SuryaNeural",
+    "Locale": "ta-MY",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "93",
+    "flag": "https://flagcdn.com/w40/my.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Venba",
+    "ShortName": "ta-SG-VenbaNeural",
+    "Locale": "ta-SG",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "83",
+    "flag": "https://flagcdn.com/w40/sg.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Anbu",
+    "ShortName": "ta-SG-AnbuNeural",
+    "Locale": "ta-SG",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "103",
+    "flag": "https://flagcdn.com/w40/sg.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Shruti",
+    "ShortName": "te-IN-ShrutiNeural",
+    "Locale": "te-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "79",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Mohan",
+    "ShortName": "te-IN-MohanNeural",
+    "Locale": "te-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "103",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Premwadee",
+    "ShortName": "th-TH-PremwadeeNeural",
+    "Locale": "th-TH",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "49",
+    "flag": "https://flagcdn.com/w40/th.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Niwat",
+    "ShortName": "th-TH-NiwatNeural",
+    "Locale": "th-TH",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "49",
+    "flag": "https://flagcdn.com/w40/th.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Achara",
+    "ShortName": "th-TH-AcharaNeural",
+    "Locale": "th-TH",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "51",
+    "flag": "https://flagcdn.com/w40/th.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Emel",
+    "ShortName": "tr-TR-EmelNeural",
+    "Locale": "tr-TR",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "111",
+    "flag": "https://flagcdn.com/w40/tr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ahmet",
+    "ShortName": "tr-TR-AhmetNeural",
+    "Locale": "tr-TR",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "108",
+    "flag": "https://flagcdn.com/w40/tr.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Polina",
+    "ShortName": "uk-UA-PolinaNeural",
+    "Locale": "uk-UA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "111",
+    "flag": "https://flagcdn.com/w40/ua.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Ostap",
+    "ShortName": "uk-UA-OstapNeural",
+    "Locale": "uk-UA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "109",
+    "flag": "https://flagcdn.com/w40/ua.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Gul",
+    "ShortName": "ur-IN-GulNeural",
+    "Locale": "ur-IN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "157",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Salman",
+    "ShortName": "ur-IN-SalmanNeural",
+    "Locale": "ur-IN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "103",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Uzma",
+    "ShortName": "ur-PK-UzmaNeural",
+    "Locale": "ur-PK",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "168",
+    "flag": "https://flagcdn.com/w40/pk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Asad",
+    "ShortName": "ur-PK-AsadNeural",
+    "Locale": "ur-PK",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "167",
+    "flag": "https://flagcdn.com/w40/pk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Madina",
+    "ShortName": "uz-UZ-MadinaNeural",
+    "Locale": "uz-UZ",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "105",
+    "flag": "https://flagcdn.com/w40/uz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Sardor",
+    "ShortName": "uz-UZ-SardorNeural",
+    "Locale": "uz-UZ",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "112",
+    "flag": "https://flagcdn.com/w40/uz.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "HoaiMy",
+    "ShortName": "vi-VN-HoaiMyNeural",
+    "Locale": "vi-VN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "202",
+    "flag": "https://flagcdn.com/w40/vn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "NamMinh",
+    "ShortName": "vi-VN-NamMinhNeural",
+    "Locale": "vi-VN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "204",
+    "flag": "https://flagcdn.com/w40/vn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaotong",
+    "ShortName": "wuu-CN-XiaotongNeural",
+    "Locale": "wuu-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "238",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunzhe",
+    "ShortName": "wuu-CN-YunzheNeural",
+    "Locale": "wuu-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "244",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "XiaoMin",
+    "ShortName": "yue-CN-XiaoMinNeural",
+    "Locale": "yue-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "214",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "YunSong",
+    "ShortName": "yue-CN-YunSongNeural",
+    "Locale": "yue-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "221",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaoxiao",
+    "ShortName": "zh-CN-XiaoxiaoNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "274",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunxi",
+    "ShortName": "zh-CN-YunxiNeural",
+    "Locale": "zh-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "293",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunjian",
+    "ShortName": "zh-CN-YunjianNeural",
+    "Locale": "zh-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "279",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaoyi",
+    "ShortName": "zh-CN-XiaoyiNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "263",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunyang",
+    "ShortName": "zh-CN-YunyangNeural",
+    "Locale": "zh-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "293",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaochen",
+    "ShortName": "zh-CN-XiaochenNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "283",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaochen Multilingual",
+    "ShortName": "zh-CN-XiaochenMultilingualNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaohan",
+    "ShortName": "zh-CN-XiaohanNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "259",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaomeng",
+    "ShortName": "zh-CN-XiaomengNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "272",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaomo",
+    "ShortName": "zh-CN-XiaomoNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "286",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaoqiu",
+    "ShortName": "zh-CN-XiaoqiuNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "232",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaorou",
+    "ShortName": "zh-CN-XiaorouNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaorui",
+    "ShortName": "zh-CN-XiaoruiNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "243",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaoshuang",
+    "ShortName": "zh-CN-XiaoshuangNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "225",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaoxiao Dialects",
+    "ShortName": "zh-CN-XiaoxiaoDialectsNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaoxiao Multilingual",
+    "ShortName": "zh-CN-XiaoxiaoMultilingualNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaoyan",
+    "ShortName": "zh-CN-XiaoyanNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "279",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaoyou",
+    "ShortName": "zh-CN-XiaoyouNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "211",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaoyu Multilingual",
+    "ShortName": "zh-CN-XiaoyuMultilingualNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaozhen",
+    "ShortName": "zh-CN-XiaozhenNeural",
+    "Locale": "zh-CN",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "273",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunfeng",
+    "ShortName": "zh-CN-YunfengNeural",
+    "Locale": "zh-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "320",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunhao",
+    "ShortName": "zh-CN-YunhaoNeural",
+    "Locale": "zh-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "315",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunjie",
+    "ShortName": "zh-CN-YunjieNeural",
+    "Locale": "zh-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunxia",
+    "ShortName": "zh-CN-YunxiaNeural",
+    "Locale": "zh-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "269",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunye",
+    "ShortName": "zh-CN-YunyeNeural",
+    "Locale": "zh-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "278",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunyi Multilingual",
+    "ShortName": "zh-CN-YunyiMultilingualNeural",
+    "Locale": "zh-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunze",
+    "ShortName": "zh-CN-YunzeNeural",
+    "Locale": "zh-CN",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "255",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunqi",
+    "ShortName": "zh-CN-guangxi-YunqiNeural",
+    "Locale": "zh-CN-guangxi",
+    "Gender": "Male",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yundeng",
+    "ShortName": "zh-CN-henan-YundengNeural",
+    "Locale": "zh-CN-henan",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "285",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaobei",
+    "ShortName": "zh-CN-liaoning-XiaobeiNeural",
+    "Locale": "zh-CN-liaoning",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "229",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunbiao",
+    "ShortName": "zh-CN-liaoning-YunbiaoNeural",
+    "Locale": "zh-CN-liaoning",
+    "Gender": "Male",
+    "SampleRateHertz": "24000",
+    "WordsPerMinute": "150",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Xiaoni",
+    "ShortName": "zh-CN-shaanxi-XiaoniNeural",
+    "Locale": "zh-CN-shaanxi",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "263",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunxiang",
+    "ShortName": "zh-CN-shandong-YunxiangNeural",
+    "Locale": "zh-CN-shandong",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "279",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Yunxi",
+    "ShortName": "zh-CN-sichuan-YunxiNeural",
+    "Locale": "zh-CN-sichuan",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "285",
+    "flag": "https://flagcdn.com/w40/cn.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "HiuMaan",
+    "ShortName": "zh-HK-HiuMaanNeural",
+    "Locale": "zh-HK",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "244",
+    "flag": "https://flagcdn.com/w40/hk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "WanLung",
+    "ShortName": "zh-HK-WanLungNeural",
+    "Locale": "zh-HK",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "259",
+    "flag": "https://flagcdn.com/w40/hk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "HiuGaai",
+    "ShortName": "zh-HK-HiuGaaiNeural",
+    "Locale": "zh-HK",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "194",
+    "flag": "https://flagcdn.com/w40/hk.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "HsiaoChen",
+    "ShortName": "zh-TW-HsiaoChenNeural",
+    "Locale": "zh-TW",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "272",
+    "flag": "https://flagcdn.com/w40/tw.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "YunJhe",
+    "ShortName": "zh-TW-YunJheNeural",
+    "Locale": "zh-TW",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "285",
+    "flag": "https://flagcdn.com/w40/tw.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "HsiaoYu",
+    "ShortName": "zh-TW-HsiaoYuNeural",
+    "Locale": "zh-TW",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "223",
+    "flag": "https://flagcdn.com/w40/tw.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Thando",
+    "ShortName": "zu-ZA-ThandoNeural",
+    "Locale": "zu-ZA",
+    "Gender": "Female",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "83",
+    "flag": "https://flagcdn.com/w40/za.png",
+    "engine": "vercelli"
+  },
+  {
+    "DisplayName": "Themba",
+    "ShortName": "zu-ZA-ThembaNeural",
+    "Locale": "zu-ZA",
+    "Gender": "Male",
+    "SampleRateHertz": "48000",
+    "WordsPerMinute": "90",
+    "flag": "https://flagcdn.com/w40/za.png",
+    "engine": "vercelli"
+  }
+]
